@@ -7,7 +7,7 @@
 - 🚀 I’m a passionate **Full-Stack MERN Developer** with **1.5 years of hands-on experience**.
 - 🔍 Currently **seeking internship opportunities** in backend or full-stack development.
 - 🧠 Solved **1200+ LeetCode problems**, 22+ badges including Knight, 500+ days active.
-- 🎓 Pursuing **B.Tech in Computer Science** from Sandip University, GPA: **8.14**.
+- 🎓 Pursuing **B.Tech in Computer Science**.
 - 🛠️ I love turning ideas into scalable web applications and solving real-world problems with clean, efficient code.
 
 ---
@@ -18,41 +18,13 @@
 `Java` | `JavaScript` | `Python` | `TypeScript` | `SQL`
 
 **Frontend**  
-`React.js` | `Tailwind CSS` | `Bootstrap` | `HTML` | `CSS`
+`React.js` | `Tailwind CSS` | `Bootstrap` | `HTML` | `CSS` | `JWT Auth` | `Material UI` | `Bootstrap` | `HTML` | `CSS` |
 
 **Backend & DB**  
 `Node.js` | `Express.js` | `MongoDB` | `MySQL` | `Mongoose` | `REST APIs`
 
 **Others**  
-`JWT Auth` | `Socket.IO` | `WebRTC` | `Chart.js` | `Docker` | `Git` | `Vercel` | `Render`
-
----
-
-### 🛠 My Projects
-
-#### 🔹 [ChatMeetUp](https://chatmeetup.vercel.app/)
-Real-time video chat + group messaging platform  
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `WebRTC`
-
-#### 🔹 [LogicHelp](https://logic-help.vercel.app/)
-AI-powered DSA practice & live coding  
-`React` `Monaco Editor` `Socket.IO` `Bootstrap` `Cloudinary` `Chart.js`
-
-#### 🔹 [JobHelper](https://jobhelper-frontend.vercel.app/)
-Find jobs, internships & hackathons with auth system  
-`Node.js` `Express` `MongoDB` `EJS` `Bootstrap` `Passport.js`
-
-#### 🔹 [Zerodha Clone](https://zerodha-clone.vercel.app/)
-Stock trading platform with real-time charts  
-`React` `Node.js` `Chart.js` `MongoDB` `Bootstrap`
-
-#### 🔹 [Airbnb Clone](https://airbnb-clone-nitn.vercel.app/)
-Rental booking app with MapBox & session tracking  
-`Node.js` `MongoDB` `Bootstrap` `Mapbox` `EJS`
-
-#### 🔹 [Milk Products Dairy](https://milk-products-dairy.vercel.app/)
-Real-time dairy products ordering platform  
-`React` `MongoDB` `Razorpay` `EmailJS` `Tailwind` `Google OAuth`
+`JWT Auth` | `Socket.IO` | `WebRTC` | `Chart.js` | `Docker` | `Git` | `Vercel` | `Render` | `Figma` | `Razorpay` | `DSA` | `Monaco Editor`
 
 ---
 
