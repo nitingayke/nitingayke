@@ -1,52 +1,105 @@
-# Hi there 👋, I'm Nitin Gayke
+# 🚀 Hi there, I'm Nitin Gayke 👋
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 I’m a passionate **Full-Stack MERN Developer** with **1.5 years of hands-on experience**.
-- 🔍 Currently **seeking internship opportunities** in backend or full-stack development.
-- 🧠 Solved **1200+ LeetCode problems**, 22+ badges including Knight, 500+ days active.
-- 🎓 Pursuing **B.Tech in Computer Science**.
-- 🛠️ I love turning ideas into scalable web applications and solving real-world problems with clean, efficient code.
-
----
-
-### 🔧 Tech Stack
-
-**Languages**  
-`Java` | `JavaScript` | `Python` | `TypeScript` | `SQL`
-
-**Frontend**  
-`React.js` | `Tailwind CSS` | `Bootstrap` | `HTML` | `CSS` | `JWT Auth` | `Material UI` | `Bootstrap` | `HTML` | `CSS` |
-
-**Backend & DB**  
-`Node.js` | `Express.js` | `MongoDB` | `MySQL` | `Mongoose` | `REST APIs`
-
-**Others**  
-`JWT Auth` | `Socket.IO` | `WebRTC` | `Chart.js` | `Docker` | `Git` | `Vercel` | `Render` | `Figma` | `Razorpay` | `DSA` | `Monaco Editor`
+* 🚀 Passionate **Full-Stack Developer** specializing in **MERN & scalable backend systems**
+* 🔍 Actively seeking **internship opportunities** in **Backend / Full-Stack Development**
+* 🧠 Solved **1600+ DSA problems** with strong problem-solving skills
+* 🏆 **LeetCode Knight** | Consistent coding streak & contest participation
+* 🎓 Final-year **B.Tech Computer Science student (2026)**
+* ⚡ Love building **real-time, scalable, and production-ready applications**
 
 ---
 
-### 🏆 Achievements
+## 🛤️ My Journey
 
-- 🧩 **1200+ LeetCode Problems Solved** — Knight Badge holder  
-- 🏁 **50+ LeetCode Contests** — Top 25% in several  
-- 🛠️ Completed **DSA & Full-Stack Course** from Apna College  
-- 🚀 **NASA Space Apps Hackathon 2024** – Built a climate-focused platform using PACE data  
-- 🔥 **Freelancing Experience** – Worked under mentorship on full-scale client apps  
-- 📈 168K+ views on LinkedIn posts | 500+ days coding streak
+> From writing my first lines of HTML to building real-time systems and solving 1400+ DSA problems
 
----
-
-### 📫 Connect with Me
-
-- 🌐 [Portfolio](https://nitin-portfolio-gilt.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitin-gayke92/)
-- 💻 [GitHub](https://github.com/nitingayke)
-- 📧 [Email](mailto:gaykenitin975@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/Nitin_Gayke/)
+* Started with **HTML, CSS, JavaScript**
+* Built strong foundations in **Data Structures & Algorithms**
+* Transitioned into **Full Stack Development (MERN)**
+* Expanded into **Spring Boot & scalable backend architecture**
+* Currently exploring **GenAI & system design**
 
 ---
 
-> “Consistency and curiosity are my superpowers.” 🚀
+## 🔧 Tech Stack
+
+### 💻 Languages
+
+`Java` `JavaScript` `Python` `TypeScript (Basics)` `SQL`
+
+### 🌐 Frontend
+
+`React.js` `React Native` `Tailwind CSS` `Bootstrap` `Material UI`
+
+### 🛠️ Backend & APIs
+
+`Node.js` `Express.js` `Spring Boot` `FastAPI` `REST APIs` `JWT Auth`
+
+### 🔗 Real-Time & Advanced
+
+`Socket.IO` `WebRTC`
+
+### 🧠 AI / GenAI
+
+`LangChain` `LangGraph` `Vector Databases`
+
+### 🗄️ Databases
+
+`MongoDB` `MySQL` `Mongoose`
+
+### ⚙️ Tools & Platforms
+
+`Git` `GitHub` `Docker` `Vercel` `Render` `Figma` `Razorpay`
+
+---
+
+## 🏆 Achievements
+
+* 🧩 **1600+ LeetCode Problems Solved** — Knight Badge
+* 🏁 Participated in **100+ LeetCode Contests**
+* 📊 Ranked in **Top ~4% globally**
+* 🔥 **700+ Days Coding Streak**
+* 🚀 Participated in **NASA Space Apps Hackathon**
+* 💼 **Freelance Developer Experience** — worked on real-world scalable apps
+* 📈 Strong presence on LinkedIn with consistent technical posts
+
+---
+
+## 📊 Coding Profile
+
+* 💪 Strong in **DSA, Problem Solving & Competitive Programming**
+* ⚡ Focus on writing **optimized & clean solutions**
+* 🧠 Deep understanding of **Core CS (OS, DBMS, CN, OOP)**
+
+---
+
+## 🎯 Current Focus
+
+* 📌 System Design & Scalable Architecture
+* 📌 Advanced Backend (Spring Boot + Performance Optimization)
+* 📌 GenAI Applications (LangChain, RAG systems)
+* 📌 Real-Time Collaboration Systems
+
+---
+
+## 📫 Connect with Me
+
+* 🌐 Portfolio: https://nitin-portfolio-gilt.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/nitin-gayke92/
+* 💻 GitHub: https://github.com/nitingayke
+* 📧 Email: [gaykenitin975@gmail.com](mailto:gaykenitin975@gmail.com)
+* 🧠 LeetCode: https://leetcode.com/Nitin_Gayke/
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving DSA problems as much as building real-world applications 😄
+
+---
+
+⭐ *Always open to opportunities, collaborations, and learning!*
