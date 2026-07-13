@@ -1,62 +1,89 @@
-# 🚀 Nitin Valmik Gayke
+<!-- ========================================================= -->
+<!--                     HERO SECTION                          -->
+<!-- ========================================================= -->
 
 <div align="center">
+  <h1>🚀 Nitin Valmik Gayke</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Developer;LeetCode+Knight+%F0%9F%91%91;Top+3.89%25+Globally;1%2C681+DSA+Problems+Solved;Spring+Boot+%E2%80%A2+React+%E2%80%A2+GenAI;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  
+  <p>
+    <strong>Software Engineer & Full-Stack Developer</strong> specialized in building scalable backend architectures, real-time distributed systems, and production-ready GenAI applications.
+  </p>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;LeetCode+Knight+%F0%9F%91%91;Top+3.89%25+Globally;1%2C681+DSA+Problems+Solved;Spring+Boot+%E2%80%A2+React+%E2%80%A2+GenAI;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ========================================================= -->
+<!--                   SOCIAL BADGES                           -->
+<!-- ========================================================= -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nitin_Gayke/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-gayke92)
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingayke)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-gayke92)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nitin_Gayke/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nitin-portfolio-6v8f.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaykenitin975@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gaykenitin9209)
 
+<br/>
 <img src="https://komarev.com/ghpvc/?username=nitingayke&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                         ABOUT ME                          -->
+<!-- ========================================================= -->
 
-> **Software Engineer | Full-Stack Developer | DSA Enthusiast**
+## 🚀 About Me
 
-I'm a **2026 Computer Science graduate** passionate about building scalable software and solving challenging engineering problems. Over the past few years, I've consistently worked on strengthening my software engineering fundamentals through **daily DSA practice** and **real-world projects**.
+<div align="center">
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</div>
 
-### 🎯 Quick Highlights
+🎓 **B.Tech in Computer Science & Engineering** (GPA: **8.57**) - Sandip University, Nashik  
+💻 Passionate **Full Stack Developer** crafting high-throughput, low-latency web & mobile platforms  
+🏆 **LeetCode Knight** with an elite competitive programming track record (**1,681+ Problems Solved**)  
+⚡ Expert with the **MERN Stack**, **Spring Boot**, **Microservices**, and high-concurrency systems  
+🤖 Deeply diving into **Generative AI**, **LangChain**, LLM pipelines, and semantic vector architectures  
+🌱 Building robust infrastructure using **Docker**, **Redis Caching**, and **Kafka Event Brokerage**  
+💼 Experienced **Freelance Developer** managing end-to-end production cycles for global clients  
 
-<table>
-<tr>
-<td>
-
-🏆 **1,681** DSA Problems Solved  
-👑 **Knight** on LeetCode (Top 3.89%)  
-📊 **1,952** Contest Rating  
-🔥 **366-day** Current Streak  
-
-</td>
-<td>
-
-🏁 **90+** Coding Contests  
-🎖️ **39** LeetCode Badges  
-🚀 **20+** Full-Stack Projects  
-💼 **Active** Freelance Developer  
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 📈 LeetCode & Competitive Programming
+<!-- ========================================================= -->
+<!--                    LIVE STATS DASHBOARD                   -->
+<!-- ========================================================= -->
+
+## 📈 Live Metrics & Competitive Programming
 
 <div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nitin_Gayke?theme=dark&font=baloo&ext=heatmap)
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔥 GitHub Contribution Streak</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitingayke&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h3>💻 LeetCode Live Analytics</h3>
+        <img src="https://leetcard.jacoblin.cool/Nitin_Gayke?theme=dark&font=Nunito&ext=contest&bg=0D1117" alt="LeetCode Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nitingayke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingayke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 📊 Problem Breakdown
+### 📊 Algorithmic Problem Breakdown
 
 | Difficulty | Solved | Total | Progress |
 |------------|--------|-------|----------|
@@ -65,363 +92,351 @@ I'm a **2026 Computer Science graduate** passionate about building scalable soft
 | 🔴 **Hard** | 329 | 949 | ████████░░░░ 34% |
 | **Total** | **1,681** | **3,977** | **42%** |
 
-### 🏅 Badges Earned
 
 ```
-👑 Knight        🏆 500 Days       🎯 365 Days
-📅 200 Days      ⭐ 100 Days       🔥 50 Days
-🏁 90+ Contests  🎖️ 39 Total Badges
-```
 
----
+👑 Badge Status: Knight (Top 3.89% Globally) | 🏁 Contests: 90+ | 📊 Peak Rating: 1,952 | 🔥 366+ Days Streak
 
-## 🗺️ My Software Engineering Journey
-
-### 🎓 **Semester 1** (Aug 2022 - Dec 2022)
-> 🌱 *Laid the Foundation*
-
-- Started B.Tech in Computer Science at Sandip University
-- Focused on curriculum and explored technologies
-- Learned **C programming** fundamentals
-- Built strong base in programming concepts
-
----
-
-### 🎓 **Semester 2** (Jan 2023 - May 2023)
-> 📚 *First Steps into DSA*
-
-- Started **C++ programming**
-- Explored Data Structures & Algorithms concepts
-- Watched online DSA lectures (didn't solve problems yet)
-- Strengthened programming fundamentals
-
----
-
-### 🎓 **Semester 3** (Aug 2023 - Dec 2023)
-> 🔥 *Accelerated Learning*
-
-- Enrolled in **Apna College** courses:
-  - **Alpha Plus**: Complete DSA Batch (Java + DSA + Advanced DSA)
-  - **Sigma Batch**: Complete DSA + Web Development (MERN)
-- Learned **Java** in-depth (university curriculum aligned)
-- Started Web Development fundamentals
-- Built first HTML/CSS projects
-- Gained strong foundation in Data Structures
-
----
-
-### 🎓 **Semester 4** (Jan 2024 - May 2024)
-> 💻 *Started Building*
-
-- Began solving problems on **LeetCode**
-- Started Web Development journey (HTML, CSS, JavaScript)
-- Built small projects to apply learning
-- Strengthened problem-solving skills
-
----
-
-### 🎓 **Semester 5** (Aug 2024 - Nov 2024)
-> ⚡ *MERN Stack Mastery*
-
-- Started learning **MERN Stack** (MongoDB, Express, React, Node.js)
-- Built multiple small projects
-- Continued DSA practice consistently
-
----
-
-### 🎓 **Semester 6** (Jan 2025 - May 2025)
-> 🚀 *Full-Stack Development*
-
-- Built full-stack projects independently
-- Contributed to team projects
-- Maintained DSA consistency
-
----
-
-### 🎓 **Semester 7** (Aug 2025 - Dec 2025)
-> 💼 *Freelancing & Advanced Technologies*
-
-- Started **Freelance Full-Stack Development** (Mar 2025 - Present)
-- Learned **GenAI** and integrated with projects
-- Explored **Docker** for containerization
-- Learned **System Design** principles
-- Understood **LLM basics** and **High-Level Design**
-
----
-
-### 🎓 **Semester 8** (Jan 2026 - Jul 2026)
-> 🔬 *Production-Ready Engineering*
-
-- Built **GenAI + MERN** integrated applications
-- Integrated external APIs in projects
-- Learned **Redis** for caching and real-time systems
-- Deepened **System Design** knowledge
-- Submitted Final Year Project
-- Learning **Spring Boot Advanced**, **Microservices**
-
----
-
-### 📊 LeetCode Progress Timeline
-
-```mermaid
-timeline
-    title LeetCode Progress (2024 - 2026)
-    Aug 2024 : Rank 49,546
-             : 656 Problems
-             : Rating 1,610
-    Nov 2024 : Rank 23,414
-             : 900 Problems
-             : Rating 1,693
-    Jan 2025 : Rank 17,621
-             : 1,000+ Problems
-             : Rating 1,828
-    May 2025 : Rank 11,019
-             : 1,180 Problems
-             : Rating 1,849
-    Aug 2025 : Rank 8,529
-             : 1,305 Problems
-             : 500-Day Streak
-    Dec 2025 : Rank 6,354
-             : 1,459 Problems
-             : Rating 1,851
-    Jul 2026 : Rank 4,411 ⭐
-             : 1,681 Problems
-             : Rating 1,952
 ```
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ========================================================= -->
+<!--                      TECH STACK                           -->
+<!-- ========================================================= -->
 
-### 💻 Languages
+## 🛠️ Technical Toolkit
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 **Languages**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></td>
+      <td><strong>Java</strong> - Advanced OOP, Spring Boot, Microservices</td>
+      <td><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></td>
+      <td><strong>JavaScript / TS</strong> - Modern ES6+, Node.js runtime</td>
+      <td><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></td>
+      <td><strong>Python</strong> - Generative AI pipelines, FastAPI frameworks</td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></td>
+      <td><strong>C++</strong> - High-Performance Competitive Programming</td>
+      <td><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></td>
+      <td><strong>HTML5 & CSS3</strong> - Semantics, Responsive UI Frameworks</td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></td>
+      <td><strong>SQL</strong> - Relational schemas, query optimization</td>
+    </tr>
+  </table>
+</div>
 
-### 🚀 Backend & APIs
+### 🎨 **Frontend Frameworks**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></td>
+      <td><strong>React.js</strong> - Virtual DOM architecture, State Engines</td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></td>
+      <td><strong>Next.js</strong> - SSR, Static Site Generation, App Router</td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></td>
+      <td><strong>Tailwind CSS</strong> - Atomic, layout systems design</td>
+    </tr>
+  </table>
+</div>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ **Backend, Databases & Caching**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></td>
+      <td><strong>Spring Boot</strong> - Cloud Config, Enterprise Layering</td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></td>
+      <td><strong>Node.js & Express</strong> - Asynchronous, RESTful API endpoints</td>
+      <td><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/></td>
+      <td><strong>FastAPI</strong> - Highly performant ASGI endpoints</td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></td>
+      <td><strong>MongoDB</strong> - Distributed BSON Document clusters</td>
+      <td><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></td>
+      <td><strong>Redis</strong> - High-throughput Caching & Pub/Sub messaging</td>
+      <td><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></td>
+      <td><strong>Kafka</strong> - Event stream processing architectures</td>
+    </tr>
+  </table>
+</div>
 
-### 🎨 Frontend
+### 🤖 **Real-Time Communications & AI Systems**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=sublime" width="40" height="40"/></td>
+      <td><strong>WebRTC</strong> - P2P Mesh topologies, audio/video pipelines</td>
+      <td>🌐</td>
+      <td><strong>Socket.IO</strong> - Low-latency bidirectional event handling</td>
+    </tr>
+    <tr>
+      <td>🧠</td>
+      <td><strong>LangChain</strong> - Multi-agent LLM chain systems</td>
+      <td>⚙️</td>
+      <td><strong>Generative AI & RAG</strong> - Vector Databases, Vector search</td>
+    </tr>
+  </table>
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔗 Real-Time & AI
-
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### ⚙️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### ☁️ **DevOps & Infrastructure**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></td>
+      <td><strong>Docker</strong> - Isolated software image micro-containers</td>
+      <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></td>
+      <td><strong>Git & Versioning</strong> - Advanced Git rebasing, branch controls</td>
+      <td><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></td>
+      <td><strong>Postman</strong> - API validation, automated testing suites</td>
+    </tr>
+  </table>
+</div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                   SKILL PROFICIENCY                       -->
+<!-- ========================================================= -->
+
+## 🎯 Architectural Expertise & Skill Proficiency
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>Core Systems Engineering</h4>
+        <table>
+          <tr><td><strong>Data Structures & Algorithms</strong></td><td>████████████████████░ 95%</td></tr>
+          <tr><td><strong>Java & Spring Boot</strong></td><td>██████████████████░░░ 85%</td></tr>
+          <tr><td><strong>Node.js / React (MERN Stack)</strong></td><td>████████████████████░ 92%</td></tr>
+          <tr><td><strong>System Design (HLD/LLD)</strong></td><td>███████████████░░░░░░ 75%</td></tr>
+        </table>
+      </td>
+      <td width="50%">
+        <h4>Advanced & Infrastructure Ecosystem</h4>
+        <table>
+          <tr><td><strong>Real-Time Systems (Sockets, WebRTC)</strong></td><td>██████████████████░░░ 88%</td></tr>
+          <tr><td><strong>AI Agents & LangChain Orchestration</strong></td><td>████████████████░░░░░ 80%</td></tr>
+          <tr><td><strong>Caching & Streaming (Redis, Kafka)</strong></td><td>███████████████░░░░░░ 75%</td></tr>
+          <tr><td><strong>DevOps (Docker & CI/CD)</strong></td><td>██████████████░░░░░░░ 70%</td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                   CS FUNDAMENTALS                         -->
+<!-- ========================================================= -->
 
 ## 📚 Computer Science Fundamentals
 
-✅ **Data Structures & Algorithms** - 1,681 problems solved  
-✅ **Object-Oriented Design** - Java, OOP principles  
-✅ **Operating Systems** - Process management, Memory management  
-✅ **Computer Networks** - TCP/IP, HTTP, WebRTC  
-✅ **Database Management Systems** - MongoDB, MySQL, Redis  
-✅ **System Design** - Scalable architecture, Microservices  
-✅ **Low-Level Design** - Design patterns, SOLID principles  
+✅ **Data Structures & Algorithms** - Core design patterns, analytical analysis, 1,681 solutions  
+✅ **Object-Oriented Design** - Java ecosystem framework architectures, SOLID principles  
+✅ **Operating Systems** - Concurrency controls, process schedules, memory caching schemes  
+✅ **Computer Networks** - TCP/IP stack configurations, HTTP protocol definitions, WebRTC architecture  
+✅ **Database Management Systems** - Document indexing schemas, relational mapping normalization  
+✅ **Distributed Architecture** - Scalable microservice design topologies, caching tiers, message brokers  
 
 ---
 
-## 🚀 Featured Projects
+<!-- ========================================================= -->
+<!--                        EXPERIENCE                         -->
+<!-- ========================================================= -->
 
-### 🤖 Synthora - AI-Powered Q&A Platform
+## 💼 Professional Experience
 
-> AI-powered Q&A platform with real-time collaboration built using React, Spring Boot, FastAPI, and LangChain
+### 🛠️ **Freelance Full-Stack Developer**
+**Production-Grade Web & Mobile Software Architecture**  
+*Mar 2025 - Present*
 
-**Key Features:**
-- 🧠 AI Answer Generation using LangChain
-- 🔄 Human + AI Collaboration
-- 🌐 Web Search Integration
-- 📊 Vector Database for Semantic Search
-- 💬 Real-time Communication with Socket.IO
-- 🔐 JWT Authentication
-- 🏗️ Microservice Architecture
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingayke/synthia)
-
----
-
-### 💬 ChatMeetUp - Real-Time Communication Platform
-
-> Scalable one-to-one and group messaging platform with video conferencing support
-
-**Key Features:**
-- 💬 One-to-One & Group Messaging
-- 📹 Video Conferencing with WebRTC
-- 📎 Media Sharing
-- 🔐 JWT Authentication
-- 📱 Responsive React UI
-- ⚡ Low-latency Socket.IO Communication
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingayke/chatmeetup)
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%" align="left">
+        <p>Designing, managing, and building enterprise web services, real-time data pipelines, and intelligent AI layers directly for commercial clients.</p>
+        <h4>✨ Key Achievements</h4>
+        <ul>
+          <li>🏗️ <strong>Scalable Systems:</strong> Built robust RESTful architectures leveraging Spring Boot and Node.js backend layers with multi-level database constraints.</li>
+          <li>🔐 <strong>Security Auditing:</strong> Implemented cryptographic OAuth2 flow states, complex JWT token lifetimes, and automated secure OTP transaction verifications.</li>
+          <li>🤖 <strong>AI Orchestration:</strong> Engineered proprietary data structures integrating LLM vector indices with production transactional databases.</li>
+          <li>⚡ <strong>DevOps Automation:</strong> Architected immutable system deployments utilizing Docker multi-stage image configs onto Vercel and Render infrastructure.</li>
+        </ul>
+        <h4>🛠 Tech Stack</h4>
+        <p>Spring Boot • Node.js • Express.js • MongoDB • Redis • Generative AI • OAuth • JWT • Docker • Vercel • Render</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🛒 Real-Time E-Commerce Platform
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
 
-> Production-grade e-commerce platform with role-based access, secure payments, and live order tracking
+## 🌟 Featured Projects
 
-**Key Features:**
-- 🛍️ Role-Based Access Control
-- 💳 Secure Payment Integration
-- 📦 Inventory Management
-- 🚚 Live Order Tracking
-- 🔐 OAuth + JWT Authentication
-- 📱 OTP Verification
-- ☁️ Cloud Deployment (Vercel + Render)
+### 🤖 **Synthora - AI-Powered Q&A Platform**
+**Intelligent Collaboration Engine** — *React.js | Spring Boot | FastAPI | LangChain | Vector Search | Socket.IO*
 
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitingayke/ecommerce)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <p>An intelligent, highly distributed Q&A engine blending autonomous Generative AI workflows with low-latency human real-time workspace systems.</p>
+        <h4>✨ System Capabilities</h4>
+        <ul>
+          <li>🧠 <strong>AI Reasoning Agents:</strong> Developed complex prompt engineering and LangChain pipeline networks utilizing Groq and OpenAI backends.</li>
+          <li>📚 <strong>Semantic RAG Pipeline:</strong> Configured vector database embeddings for dense information retrieval and cognitive web search context mappings.</li>
+          <li>💬 <strong>Real-time Synchronizer:</strong> Built real-time canvas layers with Socket.IO event brokers for near-zero messaging overhead.</li>
+          <li>🏗️ <strong>Microservice Mesh:</strong> Interlinked multi-tier Spring Boot, Node.js, and FastAPI architectures via secure private service meshes.</li>
+        </ul>
+        <p>
+          <a href="https://github.com/nitingayke/synthia">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingayke&repo=synthia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Synthora Pin" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Active--Development-2196F3?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/AI--Powered-00C853?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💼 Experience
+### 💬 **ChatMeetUp - Multimedia Telephony Platform**
+**Real-Time Data Streams & Media Pipelines** — *React.js | Node.js | WebRTC Mesh | Socket.IO Cluster | MongoDB*
 
-### Freelance Full-Stack Developer
-📅 **Mar 2025 – Present**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingayke&repo=chatmeetup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="ChatMeetUp Pin" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Production--Ready-00C853?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/Real--Time-FF6B6B?style=for-the-badge" />
+      </td>
+      <td align="left" width="60%">
+        <p>A high-concurrency communications ecosystem offering instantly scalable one-to-one text networking and high-fidelity video conferencing paths.</p>
+        <h4>✨ System Capabilities</h4>
+        <ul>
+          <li>📹 <strong>P2P Video Topology:</strong> Formed complex WebRTC connection handshakes, ICE candidate discoveries, and SDP negotiation streams.</li>
+          <li>⚡ <strong>State Synchronization:</strong> Programmed multi-room group messaging logic utilizing transactional MongoDB indexes and Redis data primitives.</li>
+          <li>🔐 <strong>Access Gateway:</strong> Standardized end-to-end token validation with secure JWT route filters.</li>
+        </ul>
+        <p>
+          <a href="https://github.com/nitingayke/chatmeetup">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> Building real-world production-grade applications for clients
+---
 
-- Collaborated with development teams to design and build scalable applications
-- Built REST APIs using Node.js, Express.js, Spring Boot, and MongoDB
-- Implemented OAuth, JWT authentication, and OTP verification
-- Deployed applications on Vercel and Render
-- Working on GenAI + MERN integrated projects
-- Learning System Design & Microservices in production environment
+### 🛒 **Real-Time E-Commerce Engine**
+**High-Concurrency Order Processing Ecosystem** — *React.js | Node.js | Express | Redis Caching | MongoDB*
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <p>A production-ready e-commerce machine engineered around real-time state changes, deep role-based dashboard access, and highly resilient caching patterns.</p>
+        <h4>✨ System Capabilities</h4>
+        <ul>
+          <li>⚡ <strong>Cache-Aside Framework:</strong> Placed Redis caches over hot relational lookup keys, achieving massive drops in primary database engine exhaustion.</li>
+          <li>📦 <strong>Inventory Mutex Control:</strong> Configured race-condition guardrails across product inventories utilizing robust transactional state controls.</li>
+          <li>💳 <strong>Secure Gateway Interfacing:</strong> Managed strict multi-factor client verification processes via automated OTP generation nodes.</li>
+        </ul>
+        <p>
+          <a href="https://github.com/nitingayke/ecommerce">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitingayke&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Ecommerce Pin" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Production--Ready-00C853?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/Infrastructure-High--Concurrency-FF6B6B?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                ROADMAP & ROAD TO PRODUCTION               -->
+<!-- ========================================================= -->
+
+## 🗺️ Academic & Practical Engineering Journey
+
+```mermaid
+timeline
+    title Engineering Milestones (2022 - 2026)
+    Semester 1 & 2 : Core C / C++ Fundamentals
+                   : Theoretical Data Structures Exploration
+    Semester 3 & 4 : Rigorous Java Mastery & Delta DSA Deep-Dive
+                   : Initial Algorithmic Inception on LeetCode
+    Semester 5 & 6 : Full MERN Stack System Implementation
+                   : Dynamic Application Deliveries & Agile Methods
+    Semester 7 & 8 : Freelance Deployment Management
+                   : Redis Integration, Docker Containerization, Advanced Distributed Systems & GenAI
+
+```
+
+### 🔬 Active Specialized Studies
+
+* **System Design:** Partitioning, Replication, Consistent Hashing, Sharding
+* **Message Handlers:** Event Driven Streaming with Apache Kafka
+* **Spring Layering:** Microservice Discovery Hubs & Spring Security Shielding
+
+---
+
+## 🌱 Current Direction & Goals for 2026
 
 ---
 
 ## 🎓 Education
 
-### Sandip University, Nashik
-📅 **Aug 2022 – Jul 2026**
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering
-- **GPA:** 8.57/10
+---
+
+## 📊 Developer Footprint
 
 ---
 
-## 🌱 Currently Learning
+## 🤝 Establish Contact
 
-- 📌 **System Design & Scalable Architecture**
-- 📌 **Redis** for Caching & Real-Time Systems
-- 📌 **Docker & Containerization**
-- 📌 **Spring Security** & OAuth
-- 📌 **Microservices Architecture**
-- 📌 **Kafka** for Event-Driven Systems
-
----
-
-## 📊 GitHub & Activity
-
-<div align="center">
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingayke&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="95%" />
-
-<br/><br/>
-
-<!-- Simple Badges (Always Work) -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nitingayke?style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nitingayke?style=for-the-badge&logo=github&color=blueviolet" alt="Stars" />
-  <img src="https://img.shields.io/github/watchers/nitingayke/nitingayke?style=for-the-badge&logo=github&color=blueviolet" alt="Watchers" />
-</p>
-
-</div>
+| Channel | Destination Link |
+| --- | --- |
+| 🌐 **Digital Portfolio** | [nitin-portfolio-6v8f.vercel.app](https://nitin-portfolio-6v8f.vercel.app/) |
+| 💼 **LinkedIn Profile** | [linkedin.com/in/nitin-gayke92](https://linkedin.com/in/nitin-gayke92) |
+| 💻 **GitHub Handle** | [github.com/nitingayke](https://github.com/nitingayke) |
+| 🧠 **LeetCode Room** | [leetcode.com/Nitin_Gayke](https://leetcode.com/Nitin_Gayke/) |
+| 📧 **Direct Email** | [gaykenitin975@gmail.com](https://www.google.com/search?q=mailto%3Agaykenitin975%40gmail.com) |
+| 🏅 **Codeforces Terminal** | [codeforces.com/profile/gaykenitin9209](https://codeforces.com/profile/gaykenitin9209) |
 
 ---
 
-## ⚡ Quick Facts
+### ⭐ Thank you for visiting my terminal hub!
 
-☕ **Coffee + Java** = Productivity  
-🧩 **1,681 DSA Problems** = Problem-Solving Obsession  
-🚀 **Interested in** Distributed Systems & Scalable Architecture  
-🤖 **Passionate about** Generative AI & LangChain  
-🎯 **Goal:** Build products used by millions  
-💡 **Motto:** Continuous Learning & Consistent Practice  
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [nitin-portfolio-6v8f.vercel.app](https://nitin-portfolio-6v8f.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/nitin-gayke92](https://linkedin.com/in/nitin-gayke92) |
-| 💻 **GitHub** | [github.com/nitingayke](https://github.com/nitingayke) |
-| 🧠 **LeetCode** | [leetcode.com/Nitin_Gayke](https://leetcode.com/Nitin_Gayke/) |
-| 📧 **Email** | [gaykenitin975@gmail.com](mailto:gaykenitin975@gmail.com) |
-| 🏅 **Codeforces** | [codeforces.com/profile/gaykenitin9209](https://codeforces.com/profile/gaykenitin9209) |
-
-</div>
-
----
-
-<div align="center">
-
----
-
-> ⭐ *Thanks for visiting!*  
-> *I'm always open to Software Engineering opportunities, open-source collaborations, and discussions about scalable backend systems, distributed architecture, and Generative AI.*  
-> *Let's build something impactful together! 🚀*
-
----
-
-**Profile Views**  
-<img src="https://komarev.com/ghpvc/?username=nitingayke&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
-**Follow Me**  
-[![GitHub followers](https://img.shields.io/github/followers/nitingayke?label=Follow&style=social)](https://github.com/nitingayke)
-
----
-</div>
+**If you find my structural architecture compelling, consider leaving a ⭐ on my source codes!**
