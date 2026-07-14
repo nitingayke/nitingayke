@@ -453,13 +453,15 @@ timeline
 
 <div align="center">
 
-| Degree | Institute | Duration | CGPA |
-|---------|-----------|----------|------|
-| 🎓 B.Tech Computer Science & Engineering | Sandip University, Nashik | Aug 2022 – Jul 2026 | **8.57 / 10** |
+| Qualification | Institution | Board / University | Duration | Score |
+|---------------|-------------|--------------------|----------|-------|
+| 🎓 **B.Tech - Computer Science & Engineering** | Sandip University, Nashik | Sandip University | Aug 2022 – Jul 2026 | **CGPA: 8.12 / 10** |
+| 📘 **Higher Secondary (Class XII)** | *K.V.N Naik College* | Maharashtra State Board | 2021 – 2022 | **80.80%** |
+| 📗 **Secondary School (Class X)** | *S.S.D.M* | Maharashtra State Board | 2019 – 2020 | **75.57%** |
 
 </div>
 
-### Relevant Coursework
+### 📚 Relevant Coursework
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
