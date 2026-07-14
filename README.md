@@ -414,13 +414,83 @@ timeline
 
 ## 🌱 Current Direction & Goals for 2026
 
+<div align="center">
+
+| 🎯 Current Focus | 🚀 Status |
+|------------------|----------|
+| 🏗️ Mastering System Design (HLD + LLD) | 🔄 In Progress |
+| ☕ Spring Boot & Microservices | 🔄 Learning Daily |
+| ⚡ Redis, Kafka & Distributed Systems | 🔄 Building Projects |
+| 🤖 Generative AI & Multi-Agent Systems | 🔄 Active Development |
+| 📱 React Native | 🔄 Exploring |
+| 🧩 Competitive Programming | ✅ 1,681+ Problems Solved |
+| 💼 Preparing for SDE-1 Interviews | 🎯 2026 Goal |
+
+</div>
+
+### Current Learning
+
+- ⚡ Scalable Distributed Systems
+- ⚡ Apache Kafka
+- ⚡ Redis Caching
+- ⚡ Docker & CI/CD
+- ⚡ System Design (HLD + LLD)
+- ⚡ Spring Security & OAuth2
+- ⚡ AI Agents with LangChain & LangGraph
+
+### 2026 Targets
+
+- 🎯 Software Development Engineer (SDE-1)
+- 🎯 Build Production-Scale Backend Systems
+- 🎯 2000+ LeetCode Problems
+- 🎯 LeetCode Rating 2100+
+- 🎯 Open Source Contributions
+- 🎯 Build Enterprise-Level AI Applications
+
 ---
 
 ## 🎓 Education
 
+<div align="center">
+
+| Degree | Institute | Duration | CGPA |
+|---------|-----------|----------|------|
+| 🎓 B.Tech Computer Science & Engineering | Sandip University, Nashik | Aug 2022 – Jul 2026 | **8.57 / 10** |
+
+</div>
+
+### Relevant Coursework
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Distributed Systems
+- Artificial Intelligence
+
 ---
 
 ## 📊 Developer Footprint
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitingayke&theme=tokyonight" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitingayke&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitingayke&theme=tokyonight" width="48%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitingayke&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitingayke&theme=tokyonight&utcOffset=5.5" width="48%"/>
+
+</div>
 
 ---
 
